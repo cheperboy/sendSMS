@@ -47,7 +47,7 @@ GSM_SMS sms;
 // char array of the telephone number to send SMS
 // change the number 1-212-555-1212 to a number
 // you have access to
-char remoteNumber[20]= "0688649102";  
+char remoteNumber[20] = "0600000000";  
 
 // char array of the message
 char txtMsg[200]="Test envoi SMS long";
